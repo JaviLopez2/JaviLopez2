@@ -45,13 +45,16 @@ Gestión de recursos en una sola pantalla: incendios, rocas, humo y un cliente q
 
 ## Experiencia
 
-**QA Tester · Uplay Online** · sep 2022 – feb 2024  
+**QA Tester · Uplay Online** · sep 2022 – feb 2024
+
 Testing manual funcional, smoke y regresión. Identificación, documentación y seguimiento de errores con programación y diseño, usando Jira, Git y Perforce en equipos Scrum/Kanban.
 
-**Technical Artist en prácticas · Digital Legends** · feb 2025 – jul 2025  
+**Technical Artist en prácticas · Digital Legends** · feb 2025 – jul 2025
+
 Pipelines de producción, shaders y materiales, optimización de recursos e integración técnica de assets, trabajando entre los equipos de arte y programación.
 
-**Formación:** DAM, Desarrollo de Aplicaciones Multiplataforma · ENTI, Barcelona · finalizado en julio de 2025.  
+**Formación:** DAM, Desarrollo de Aplicaciones Multiplataforma · ENTI, Barcelona · finalizado en julio de 2025.
+
 Español (nativo) · Catalán (C1) · Inglés (B2).
 
 ## Enlaces

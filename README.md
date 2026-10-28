@@ -45,13 +45,16 @@ Single-screen resource management: fires, rocks, smoke and one very persistent c
 
 ## Experience
 
-**QA Tester · Uplay Online** · Sep 2022 – Feb 2024  
+**QA Tester · Uplay Online** · Sep 2022 – Feb 2024
+
 Manual functional, smoke and regression testing. Identified, documented and followed up bugs with programmers and designers, using Jira, Git and Perforce in Scrum/Kanban teams.
 
-**Technical Artist intern · Digital Legends** · Feb 2025 – Jul 2025  
+**Technical Artist intern · Digital Legends** · Feb 2025 – Jul 2025
+
 Production pipelines, shaders and materials, resource optimisation and technical asset integration, working between the art and programming teams.
 
-**Education:** DAM, Multiplatform Application Development · ENTI, Barcelona · completed July 2025.  
+**Education:** DAM, Multiplatform Application Development · ENTI, Barcelona · completed July 2025.
+
 Spanish (native) · Catalan (C1) · English (B2).
 
 ## Links
